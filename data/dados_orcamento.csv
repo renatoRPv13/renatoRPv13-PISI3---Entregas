@@ -1,0 +1,16 @@
+Administracao,Vl_Suplementado,Vl_Reduzido,Cd_Despesa,Vl_SuplementadoLiquido,Vl_Orcado_Ano,Vl_Orcado_Atualizado,Ds_SubFuncao
+Direta,9.9,14.2,2.9,69.8,64.9,449.05,Administração Geral
+Indireta,13.9,16.2,5.7,25.4,96.7,449.03,Informação e Inteligência
+Projetos,14.2,23.6,5.2,5.7,169.6,449.03,Assistência ao Idoso
+FMD       ,16.2,22.5,6.5,21.3,195.2,449.05,Assistência ao Portador de Deficiência
+Atividades,23.6,21.1,10.7,22.4,284.5,449.03,Assistência à Criança e ao Adolescente
+Pessoal,22.5,17.6,13.8,87.3,152.3,449.05,Assistência Comunitária
+Auxílios,21.1,15.5,12.5,86.2,154.4,449.03,Atenção Básica
+SEME      ,17.6,9.4,10.1,51.7,88.5,449.05,Suporte Profilático e Terapêutico
+SF   ,15.5,7.6,7.7,47.7,85.9,449.03,Vigilância Sanitária
+SME,9.4,6.8,4.3,59.5,67.5,449.05,Ensino Fundamental
+HABEAS     ,7.6,8.9,11.0,42.1,40.8,449.03,Educação Infantil
+HABEAS     ,6.8,8.1,0.9,64.3,40.1,449.05,Educação Especial
+SG ,8.9,8.7,1.9,58.7,45.7,449.03,Habitação Urbana
+SMSUB     ,8.1,13.9,1.1,26.56,105.2,449.05,Acesso à Moradia Adequada 
+SGM,8.7,14.2,2.7,27.23,53.5,449.03,Tecnologia da Informação
